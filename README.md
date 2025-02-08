@@ -17,6 +17,7 @@ The divmod algorithm used in this code is based on the implementation found here
 ## ToDo
 
 - [ ] Add detailed comments to explain each step of the code.
+- [ ] Reformat the output to remove leading zeros.
 - [ ] Optimize the code for better memory and time efficiency.
 - [ ] It currently handles numbers from 0 to 255. Add support for larger binary numbers.
 - [ ] Implement error handling for invalid binary inputs. (If it supports)
